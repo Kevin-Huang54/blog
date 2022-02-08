@@ -15,6 +15,7 @@ html默认将多个空格、tab显示为一个空格
 2、css属性white-space: pre
 3、多个&nbsp;
 
+
 ### html中的特殊字符
 html中的<, >,",' 和 & 是特殊字符，需要转义后使用：
 
